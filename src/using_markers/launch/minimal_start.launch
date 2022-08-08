@@ -1,0 +1,3 @@
+<launch>
+<node name="marker_talker" pkg="using_markers" type="basic_shapes" />
+</launch>
